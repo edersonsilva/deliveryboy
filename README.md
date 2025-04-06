@@ -1,4 +1,4 @@
-# Boy Entrega
+# DeliveryBoy
 
 Sistema de gerenciamento de entregas desenvolvido com Node.js, TypeScript e Prisma.
 
@@ -57,7 +57,7 @@ O servidor estará rodando em `http://localhost:3000`
 ## 📦 Estrutura do Projeto
 
 ```
-boyentrega/
+deliveryboy/
 ├── src/            # Código fonte da aplicação
 ├── prisma/         # Configurações e migrações do Prisma
 ├── .vscode/        # Configurações do VS Code
