@@ -72,7 +72,7 @@ deliveryboy/
 Crie um arquivo `.env` na raiz do projeto com as seguintes variáveis:
 
 ```
-DATABASE_URL="postgresql://user:password@localhost:5432/boyentrega"
+DATABASE_URL="postgresql://user:password@localhost:5432/deliveryboy"
 JWT_SECRET="sua_chave_secreta"
 ```
 
